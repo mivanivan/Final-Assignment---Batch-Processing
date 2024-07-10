@@ -1,0 +1,161 @@
+[2024-07-10T20:14:52.048+0000] {processor.py:161} INFO - Started process (PID=514) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:52.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:14:52.052+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.051+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:52.342+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:52.361+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.360+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:52.373+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.373+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:14:52.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.351 seconds
+[2024-07-10T20:14:54.565+0000] {processor.py:161} INFO - Started process (PID=546) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:54.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:14:54.568+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.568+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:54.839+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:54.858+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.858+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:54.870+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.869+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:14:54.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.331 seconds
+[2024-07-10T20:14:56.432+0000] {processor.py:161} INFO - Started process (PID=578) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:56.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:14:56.435+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.435+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:56.706+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:56.725+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.725+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:56.737+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.737+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:14:56.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.328 seconds
+[2024-07-10T20:14:58.414+0000] {processor.py:161} INFO - Started process (PID=609) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:58.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:14:58.416+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.416+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:58.695+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:14:58.713+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.713+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:58.724+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.724+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:14:58.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.332 seconds
+[2024-07-10T20:15:00.497+0000] {processor.py:161} INFO - Started process (PID=640) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:00.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:00.500+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:00.500+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:00.865+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:00.894+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:00.893+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:00.909+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:00.908+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:00.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.444 seconds
+[2024-07-10T20:15:02.437+0000] {processor.py:161} INFO - Started process (PID=671) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:02.438+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:02.440+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.440+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:02.687+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:02.706+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.705+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:02.716+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.716+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:02.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.301 seconds
+[2024-07-10T20:15:04.536+0000] {processor.py:161} INFO - Started process (PID=702) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:04.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:04.540+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:04.539+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:04.989+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:05.006+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.006+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.018+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.017+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:05.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.692 seconds
+[2024-07-10T20:15:06.920+0000] {processor.py:161} INFO - Started process (PID=739) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:06.922+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:06.924+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:06.923+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:07.197+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:07.217+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.216+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:07.228+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.228+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:07.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.332 seconds
+[2024-07-10T20:15:09.178+0000] {processor.py:161} INFO - Started process (PID=770) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:09.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:09.181+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.180+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:09.446+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:09.466+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.465+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:09.477+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.476+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:09.493+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.321 seconds
+[2024-07-10T20:15:11.236+0000] {processor.py:161} INFO - Started process (PID=801) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:11.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:11.239+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.239+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:11.589+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:11.619+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.618+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:11.636+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.636+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:11.660+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.430 seconds
+[2024-07-10T20:15:13.448+0000] {processor.py:161} INFO - Started process (PID=832) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:13.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:13.451+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.451+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:13.791+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:13.809+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.808+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:13.820+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.820+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:13.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.395 seconds
+[2024-07-10T20:15:15.602+0000] {processor.py:161} INFO - Started process (PID=863) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:15.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:15.605+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.605+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:15.859+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:15.878+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.878+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:15.889+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.888+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:15.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.312 seconds
+[2024-07-10T20:15:17.743+0000] {processor.py:161} INFO - Started process (PID=894) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:17.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:17.746+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:17.745+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:18.007+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:18.026+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.026+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:18.037+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.037+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:18.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.456 seconds
+[2024-07-10T20:15:20.066+0000] {processor.py:161} INFO - Started process (PID=925) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:20.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:20.070+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.069+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:20.385+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:20.403+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.403+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.414+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.414+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:20.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.374 seconds
+[2024-07-10T20:15:22.389+0000] {processor.py:161} INFO - Started process (PID=956) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:22.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:22.392+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:22.392+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:22.662+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:22.682+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:22.682+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:22.693+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:22.693+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:22.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.331 seconds
+[2024-07-10T20:15:24.434+0000] {processor.py:161} INFO - Started process (PID=987) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:24.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:24.437+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.437+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:24.713+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:24.732+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.732+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:24.743+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.742+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:24.761+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.332 seconds
+[2024-07-10T20:15:26.674+0000] {processor.py:161} INFO - Started process (PID=1018) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:26.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:26.677+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:26.677+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:26.986+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:27.006+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.006+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.018+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.018+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:27.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.371 seconds
+[2024-07-10T20:15:28.640+0000] {processor.py:161} INFO - Started process (PID=1049) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:28.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:28.644+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.644+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:28.902+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:28.920+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.920+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:28.932+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.932+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:28.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.317 seconds
+[2024-07-10T20:15:31.191+0000] {processor.py:161} INFO - Started process (PID=1080) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:31.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:31.194+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.194+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:31.459+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:31.479+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.479+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:31.491+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.490+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:31.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.517 seconds
+[2024-07-10T20:15:33.279+0000] {processor.py:161} INFO - Started process (PID=1112) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:33.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:33.281+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.281+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:33.539+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:33.560+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.560+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:33.573+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.572+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:33.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.318 seconds
+[2024-07-10T20:15:35.313+0000] {processor.py:161} INFO - Started process (PID=1143) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:35.314+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:35.316+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.315+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:35.590+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:35.612+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.612+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:35.623+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.622+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:35.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.336 seconds
+[2024-07-10T20:15:37.729+0000] {processor.py:161} INFO - Started process (PID=1180) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:37.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:37.732+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:37.732+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:38.108+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:38.137+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.136+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.157+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.156+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:38.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.463 seconds
+[2024-07-10T20:15:40.009+0000] {processor.py:161} INFO - Started process (PID=1212) to work on /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:40.011+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/2_final_assignment.py for tasks to queue
+[2024-07-10T20:15:40.013+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.013+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:40.455+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_mysql_2' retrieved from /opt/airflow/dags/2_final_assignment.py
+[2024-07-10T20:15:40.483+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.482+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:40.502+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.502+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_mysql_2 to None, run_after=None
+[2024-07-10T20:15:40.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/2_final_assignment.py took 0.530 seconds

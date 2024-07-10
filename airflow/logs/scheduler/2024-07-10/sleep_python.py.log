@@ -1,0 +1,154 @@
+[2024-07-10T20:14:53.248+0000] {processor.py:161} INFO - Started process (PID=530) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:53.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:14:53.251+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:53.250+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:53.265+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:53.281+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:53.281+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:53.299+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:53.299+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:14:53.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.072 seconds
+[2024-07-10T20:14:55.494+0000] {processor.py:161} INFO - Started process (PID=562) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:55.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:14:55.497+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.497+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:55.513+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:55.532+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.531+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:55.553+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.552+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:14:55.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.082 seconds
+[2024-07-10T20:14:57.566+0000] {processor.py:161} INFO - Started process (PID=594) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:57.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:14:57.569+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.568+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:57.587+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:57.606+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.606+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:57.627+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.627+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:14:57.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.087 seconds
+[2024-07-10T20:14:59.449+0000] {processor.py:161} INFO - Started process (PID=625) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:59.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:14:59.453+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.453+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:59.471+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:14:59.491+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.491+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:59.515+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.515+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:14:59.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.092 seconds
+[2024-07-10T20:15:01.522+0000] {processor.py:161} INFO - Started process (PID=656) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:01.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:01.525+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.525+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:01.542+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:01.559+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.559+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:01.579+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.579+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:01.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.082 seconds
+[2024-07-10T20:15:03.585+0000] {processor.py:161} INFO - Started process (PID=687) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:03.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:03.589+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.588+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:03.607+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:03.626+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.626+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:03.650+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.650+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:03.674+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.095 seconds
+[2024-07-10T20:15:05.864+0000] {processor.py:161} INFO - Started process (PID=718) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:05.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:05.867+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.867+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:05.887+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:05.911+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.910+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.934+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.934+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:05.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.096 seconds
+[2024-07-10T20:15:08.144+0000] {processor.py:161} INFO - Started process (PID=755) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:08.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:08.147+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:08.147+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:08.167+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:08.188+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:08.188+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:08.212+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:08.212+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:08.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.097 seconds
+[2024-07-10T20:15:10.211+0000] {processor.py:161} INFO - Started process (PID=786) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:10.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:10.214+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:10.214+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:10.232+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:10.251+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:10.251+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:10.276+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:10.276+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:10.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.091 seconds
+[2024-07-10T20:15:12.572+0000] {processor.py:161} INFO - Started process (PID=817) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:12.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:12.575+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.574+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:12.590+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:12.608+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.608+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:12.630+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.630+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:12.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.086 seconds
+[2024-07-10T20:15:14.528+0000] {processor.py:161} INFO - Started process (PID=848) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:14.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:14.530+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.530+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:14.548+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:14.565+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.565+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:14.585+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.584+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:14.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.079 seconds
+[2024-07-10T20:15:16.790+0000] {processor.py:161} INFO - Started process (PID=879) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:16.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:16.793+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.793+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:16.811+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:16.828+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.828+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:16.847+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.847+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:16.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.083 seconds
+[2024-07-10T20:15:19.114+0000] {processor.py:161} INFO - Started process (PID=910) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:19.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:19.117+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:19.117+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:19.134+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:19.151+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:19.151+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:19.169+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:19.169+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:19.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.080 seconds
+[2024-07-10T20:15:21.272+0000] {processor.py:161} INFO - Started process (PID=941) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:21.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:21.275+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:21.274+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:21.289+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:21.305+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:21.305+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:21.324+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:21.323+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:21.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.074 seconds
+[2024-07-10T20:15:23.533+0000] {processor.py:161} INFO - Started process (PID=972) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:23.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:23.536+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.535+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:23.553+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:23.572+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.572+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:23.591+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.591+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:23.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.083 seconds
+[2024-07-10T20:15:25.627+0000] {processor.py:161} INFO - Started process (PID=1003) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:25.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:25.629+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.629+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:25.644+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:25.664+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.664+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:25.684+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.683+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:25.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.084 seconds
+[2024-07-10T20:15:27.656+0000] {processor.py:161} INFO - Started process (PID=1034) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:27.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:27.659+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.659+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:27.676+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:27.694+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.694+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.715+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.714+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:27.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.084 seconds
+[2024-07-10T20:15:30.014+0000] {processor.py:161} INFO - Started process (PID=1065) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:30.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:30.016+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:30.016+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:30.036+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:30.055+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:30.055+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:30.079+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:30.079+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:30.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.097 seconds
+[2024-07-10T20:15:32.328+0000] {processor.py:161} INFO - Started process (PID=1096) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:32.329+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:32.332+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.331+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:32.352+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:32.370+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.370+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:32.391+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.390+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:32.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.089 seconds
+[2024-07-10T20:15:34.280+0000] {processor.py:161} INFO - Started process (PID=1128) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:34.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:34.283+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.283+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:34.299+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:34.317+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.317+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:34.337+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.336+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:34.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.082 seconds
+[2024-07-10T20:15:36.621+0000] {processor.py:161} INFO - Started process (PID=1165) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:36.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:36.623+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.623+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:36.640+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:36.659+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.658+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:36.680+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.680+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:36.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.086 seconds
+[2024-07-10T20:15:38.870+0000] {processor.py:161} INFO - Started process (PID=1196) to work on /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:38.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sleep_python.py for tasks to queue
+[2024-07-10T20:15:38.874+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.874+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:38.892+0000] {processor.py:840} INFO - DAG(s) 'sleep_python' retrieved from /opt/airflow/dags/sleep_python.py
+[2024-07-10T20:15:38.911+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.911+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.941+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.940+0000] {dag.py:3954} INFO - Setting next_dagrun for sleep_python to None, run_after=None
+[2024-07-10T20:15:38.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sleep_python.py took 0.104 seconds

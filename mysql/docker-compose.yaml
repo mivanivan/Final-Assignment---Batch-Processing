@@ -1,0 +1,17 @@
+services:
+  mysql:
+    image: quay.io/debezium/example-mysql:latest
+    container_name: mysql
+    ports:
+      - 3306:3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=dibimbing
+    volumes:
+      - ./db:/var/lib/mysql
+      - ./mysql-scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - dibimbing
+
+networks:
+  dibimbing:
+    external: true

@@ -1,0 +1,160 @@
+[2024-07-10T20:14:52.915+0000] {processor.py:161} INFO - Started process (PID=525) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:52.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:14:52.917+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.917+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:52.934+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:52.952+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.952+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:52.972+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.972+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:14:52.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.082 seconds
+[2024-07-10T20:14:55.239+0000] {processor.py:161} INFO - Started process (PID=557) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:55.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:14:55.242+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.242+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:55.260+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:55.279+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:55.300+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.300+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:14:55.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.082 seconds
+[2024-07-10T20:14:57.238+0000] {processor.py:161} INFO - Started process (PID=589) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:57.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:14:57.241+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.241+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:57.258+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:57.275+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.275+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:57.293+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.293+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:14:57.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.079 seconds
+[2024-07-10T20:14:59.139+0000] {processor.py:161} INFO - Started process (PID=620) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:59.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:14:59.143+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.142+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:59.165+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:14:59.187+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.187+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:59.214+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.213+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:14:59.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.104 seconds
+[2024-07-10T20:15:01.246+0000] {processor.py:161} INFO - Started process (PID=651) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:01.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:01.249+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.249+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:01.266+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:01.285+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.285+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:01.304+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.303+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:01.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.082 seconds
+[2024-07-10T20:15:03.248+0000] {processor.py:161} INFO - Started process (PID=682) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:03.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:03.251+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.251+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:03.270+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:03.290+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.290+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:03.311+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.310+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:03.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.091 seconds
+[2024-07-10T20:15:05.500+0000] {processor.py:161} INFO - Started process (PID=713) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:05.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:05.504+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.504+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:05.528+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:05.551+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.551+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.579+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.579+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:05.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.115 seconds
+[2024-07-10T20:15:07.804+0000] {processor.py:161} INFO - Started process (PID=750) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:07.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:07.807+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.807+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:07.827+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:07.849+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.849+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:07.872+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.872+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:07.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.100 seconds
+[2024-07-10T20:15:09.879+0000] {processor.py:161} INFO - Started process (PID=781) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:09.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:09.882+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.882+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:09.897+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:09.916+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.915+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:09.935+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.935+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:09.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.081 seconds
+[2024-07-10T20:15:12.200+0000] {processor.py:161} INFO - Started process (PID=812) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:12.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:12.203+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.203+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:12.222+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:12.243+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.242+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:12.264+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.264+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:12.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.089 seconds
+[2024-07-10T20:15:14.249+0000] {processor.py:161} INFO - Started process (PID=843) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:14.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:14.253+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.252+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:14.271+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:14.292+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.292+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:14.315+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.314+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:14.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.090 seconds
+[2024-07-10T20:15:16.466+0000] {processor.py:161} INFO - Started process (PID=874) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:16.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:16.469+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.469+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:16.486+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:16.504+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.504+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:16.522+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.522+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:16.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.083 seconds
+[2024-07-10T20:15:18.798+0000] {processor.py:161} INFO - Started process (PID=905) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:18.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:18.801+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.801+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:18.818+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:18.839+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.838+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:18.864+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.864+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:18.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.091 seconds
+[2024-07-10T20:15:20.940+0000] {processor.py:161} INFO - Started process (PID=936) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:20.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:20.944+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.943+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:20.960+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:20.979+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.979+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.999+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.999+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:21.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.084 seconds
+[2024-07-10T20:15:23.242+0000] {processor.py:161} INFO - Started process (PID=967) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:23.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:23.245+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.245+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:23.260+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:23.277+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:23.296+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.296+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:23.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.075 seconds
+[2024-07-10T20:15:25.294+0000] {processor.py:161} INFO - Started process (PID=998) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:25.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:25.296+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.296+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:25.311+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:25.328+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.328+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:25.346+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.345+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:25.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.074 seconds
+[2024-07-10T20:15:27.385+0000] {processor.py:161} INFO - Started process (PID=1029) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:27.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:27.388+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.388+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:27.405+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:27.422+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.422+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.441+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.440+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:27.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.085 seconds
+[2024-07-10T20:15:29.672+0000] {processor.py:161} INFO - Started process (PID=1060) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:29.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:29.675+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.675+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:29.693+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:29.711+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:29.729+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.729+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:29.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.082 seconds
+[2024-07-10T20:15:31.982+0000] {processor.py:161} INFO - Started process (PID=1091) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:31.983+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:31.985+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.984+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:32.004+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:32.024+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.023+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:32.045+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.044+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:32.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.091 seconds
+[2024-07-10T20:15:34.001+0000] {processor.py:161} INFO - Started process (PID=1123) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:34.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:34.004+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.003+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:34.021+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:34.046+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.046+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:34.068+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:34.068+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:34.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.095 seconds
+[2024-07-10T20:15:36.267+0000] {processor.py:161} INFO - Started process (PID=1160) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:36.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:36.270+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.270+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:36.291+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:36.314+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.314+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:36.337+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.337+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:36.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.098 seconds
+[2024-07-10T20:15:38.569+0000] {processor.py:161} INFO - Started process (PID=1191) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:38.570+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:38.571+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.571+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:38.587+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:38.607+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.607+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.628+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.627+0000] {dag.py:3954} INFO - Setting next_dagrun for mysql_insert to None, run_after=None
+[2024-07-10T20:15:38.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mysql_insert.py took 0.085 seconds
+[2024-07-10T20:15:41.224+0000] {processor.py:161} INFO - Started process (PID=1223) to work on /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:41.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mysql_insert.py for tasks to queue
+[2024-07-10T20:15:41.228+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.227+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:41.254+0000] {processor.py:840} INFO - DAG(s) 'mysql_insert' retrieved from /opt/airflow/dags/mysql_insert.py
+[2024-07-10T20:15:41.279+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.278+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:41.789+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.789+0000] {process_utils.py:263} INFO - Waiting up to 5 seconds for processes to exit...

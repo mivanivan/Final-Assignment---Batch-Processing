@@ -1,0 +1,161 @@
+[2024-07-10T20:14:52.801+0000] {processor.py:161} INFO - Started process (PID=523) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:52.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:14:52.804+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.803+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:52.821+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:52.840+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.839+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:52.859+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.859+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:14:52.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.083 seconds
+[2024-07-10T20:14:55.133+0000] {processor.py:161} INFO - Started process (PID=555) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:55.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:14:55.136+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.136+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:55.154+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:55.174+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.173+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:55.193+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.192+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:14:55.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.081 seconds
+[2024-07-10T20:14:57.027+0000] {processor.py:161} INFO - Started process (PID=587) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:57.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:14:57.030+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.029+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:57.046+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:57.064+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.064+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:57.083+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.082+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:14:57.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.078 seconds
+[2024-07-10T20:14:59.016+0000] {processor.py:161} INFO - Started process (PID=618) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:59.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:14:59.019+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.018+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:59.037+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:14:59.057+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.056+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:59.079+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.078+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:14:59.099+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.089 seconds
+[2024-07-10T20:15:01.143+0000] {processor.py:161} INFO - Started process (PID=649) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:01.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:01.146+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.145+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:01.161+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:01.179+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.179+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:01.197+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.197+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:01.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.078 seconds
+[2024-07-10T20:15:03.133+0000] {processor.py:161} INFO - Started process (PID=680) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:03.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:03.136+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.136+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:03.154+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:03.173+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.173+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:03.193+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.193+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:03.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.086 seconds
+[2024-07-10T20:15:05.378+0000] {processor.py:161} INFO - Started process (PID=711) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:05.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:05.381+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.381+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:05.398+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:05.416+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.416+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.438+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.437+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:05.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.084 seconds
+[2024-07-10T20:15:07.675+0000] {processor.py:161} INFO - Started process (PID=748) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:07.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:07.679+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.679+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:07.697+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:07.718+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.717+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:07.736+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.736+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:07.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.089 seconds
+[2024-07-10T20:15:09.765+0000] {processor.py:161} INFO - Started process (PID=779) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:09.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:09.768+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.768+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:09.785+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:09.804+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.804+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:09.825+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.825+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:09.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.085 seconds
+[2024-07-10T20:15:12.074+0000] {processor.py:161} INFO - Started process (PID=810) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:12.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:12.077+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.076+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:12.096+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:12.116+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.116+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:12.138+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.137+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:12.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.092 seconds
+[2024-07-10T20:15:14.123+0000] {processor.py:161} INFO - Started process (PID=841) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:14.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:14.126+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.126+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:14.149+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:14.171+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.171+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:14.191+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.191+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:14.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.097 seconds
+[2024-07-10T20:15:16.345+0000] {processor.py:161} INFO - Started process (PID=872) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:16.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:16.349+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.348+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:16.369+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:16.389+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.388+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:16.407+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.406+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:16.429+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.090 seconds
+[2024-07-10T20:15:18.666+0000] {processor.py:161} INFO - Started process (PID=903) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:18.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:18.669+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.669+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:18.688+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:18.707+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.707+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:18.735+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.734+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:18.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.101 seconds
+[2024-07-10T20:15:20.822+0000] {processor.py:161} INFO - Started process (PID=934) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:20.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:20.825+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.824+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:20.843+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:20.862+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.861+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.881+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.881+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:20.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.084 seconds
+[2024-07-10T20:15:23.128+0000] {processor.py:161} INFO - Started process (PID=965) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:23.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:23.131+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.130+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:23.146+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:23.164+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.164+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:23.183+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.183+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:23.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.082 seconds
+[2024-07-10T20:15:25.189+0000] {processor.py:161} INFO - Started process (PID=996) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:25.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:25.192+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.192+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:25.208+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:25.225+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.225+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:25.242+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.242+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:25.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.078 seconds
+[2024-07-10T20:15:27.275+0000] {processor.py:161} INFO - Started process (PID=1027) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:27.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:27.277+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.277+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:27.294+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:27.312+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.311+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.330+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.330+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:27.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.079 seconds
+[2024-07-10T20:15:29.449+0000] {processor.py:161} INFO - Started process (PID=1058) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:29.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:29.452+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.452+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:29.469+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:29.487+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.487+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:29.506+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.506+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:29.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.081 seconds
+[2024-07-10T20:15:31.867+0000] {processor.py:161} INFO - Started process (PID=1089) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:31.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:31.870+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.870+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:31.889+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:31.907+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.907+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:31.928+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.928+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:31.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.084 seconds
+[2024-07-10T20:15:33.882+0000] {processor.py:161} INFO - Started process (PID=1121) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:33.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:33.885+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.885+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:33.904+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:33.924+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.923+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:33.944+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.944+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:33.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.090 seconds
+[2024-07-10T20:15:35.980+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:35.981+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:35.983+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.983+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:36.003+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:36.022+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.022+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:36.042+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.042+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:36.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.086 seconds
+[2024-07-10T20:15:38.441+0000] {processor.py:161} INFO - Started process (PID=1189) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:38.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:38.444+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.444+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:38.466+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:38.488+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.487+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.511+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.511+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:38.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.098 seconds
+[2024-07-10T20:15:41.041+0000] {processor.py:161} INFO - Started process (PID=1221) to work on /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:41.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/template_reference_jinja.py for tasks to queue
+[2024-07-10T20:15:41.045+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.045+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:41.069+0000] {processor.py:840} INFO - DAG(s) 'template_reference_jinja' retrieved from /opt/airflow/dags/template_reference_jinja.py
+[2024-07-10T20:15:41.091+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.091+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:41.114+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.114+0000] {dag.py:3954} INFO - Setting next_dagrun for template_reference_jinja to None, run_after=None
+[2024-07-10T20:15:41.164+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/template_reference_jinja.py took 0.132 seconds

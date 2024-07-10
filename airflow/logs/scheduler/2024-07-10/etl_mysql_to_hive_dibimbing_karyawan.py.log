@@ -1,0 +1,161 @@
+[2024-07-10T20:14:52.563+0000] {processor.py:161} INFO - Started process (PID=520) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:52.564+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:14:52.566+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.566+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:52.584+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:52.603+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.603+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:52.623+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.623+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:14:52.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.086 seconds
+[2024-07-10T20:14:54.931+0000] {processor.py:161} INFO - Started process (PID=552) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:54.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:14:54.934+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.934+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:54.952+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:54.973+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.972+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:54.990+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.990+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:14:55.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.086 seconds
+[2024-07-10T20:14:56.815+0000] {processor.py:161} INFO - Started process (PID=584) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:56.816+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:14:56.818+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.818+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:56.834+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:56.853+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.852+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:56.870+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.870+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:14:56.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.079 seconds
+[2024-07-10T20:14:58.834+0000] {processor.py:161} INFO - Started process (PID=615) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:58.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:14:58.838+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.837+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:58.856+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:14:58.875+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.875+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:58.894+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.894+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:14:58.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.086 seconds
+[2024-07-10T20:15:00.969+0000] {processor.py:161} INFO - Started process (PID=646) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:00.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:00.972+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:00.972+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:00.990+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:01.010+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.009+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:01.030+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.030+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:01.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.083 seconds
+[2024-07-10T20:15:02.994+0000] {processor.py:161} INFO - Started process (PID=677) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:02.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:02.997+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.997+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:03.016+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:03.034+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.033+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:03.051+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.050+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:03.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.080 seconds
+[2024-07-10T20:15:05.220+0000] {processor.py:161} INFO - Started process (PID=708) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:05.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:05.223+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.223+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:05.242+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:05.261+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.261+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.282+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.282+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:05.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.087 seconds
+[2024-07-10T20:15:07.516+0000] {processor.py:161} INFO - Started process (PID=745) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:07.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:07.519+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.519+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:07.540+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:07.571+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.570+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:07.592+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.592+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:07.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.104 seconds
+[2024-07-10T20:15:09.588+0000] {processor.py:161} INFO - Started process (PID=776) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:09.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:09.592+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.591+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:09.610+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:09.634+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.634+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:09.661+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.661+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:09.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.101 seconds
+[2024-07-10T20:15:11.832+0000] {processor.py:161} INFO - Started process (PID=807) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:11.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:11.835+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.835+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:11.854+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:11.876+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.876+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:11.896+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.896+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:11.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.092 seconds
+[2024-07-10T20:15:13.913+0000] {processor.py:161} INFO - Started process (PID=838) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:13.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:13.915+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.915+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:13.934+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:13.955+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.955+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:13.980+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:13.979+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:13.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.092 seconds
+[2024-07-10T20:15:16.177+0000] {processor.py:161} INFO - Started process (PID=869) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:16.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:16.182+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.181+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:16.205+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:16.229+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.229+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:16.251+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.250+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:16.277+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.106 seconds
+[2024-07-10T20:15:18.501+0000] {processor.py:161} INFO - Started process (PID=900) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:18.503+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:18.505+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.505+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:18.527+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:18.550+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.549+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:18.569+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.569+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:18.586+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.091 seconds
+[2024-07-10T20:15:20.583+0000] {processor.py:161} INFO - Started process (PID=931) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:20.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:20.587+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.586+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:20.603+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:20.623+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.623+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.645+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.645+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:20.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.089 seconds
+[2024-07-10T20:15:22.989+0000] {processor.py:161} INFO - Started process (PID=962) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:22.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:22.992+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:22.991+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:23.011+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:23.032+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.032+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:23.050+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.050+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:23.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.084 seconds
+[2024-07-10T20:15:24.955+0000] {processor.py:161} INFO - Started process (PID=993) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:24.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:24.958+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.957+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:24.978+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:24.998+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.997+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:25.016+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.016+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:25.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.088 seconds
+[2024-07-10T20:15:27.102+0000] {processor.py:161} INFO - Started process (PID=1024) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:27.103+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:27.105+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.105+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:27.121+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:27.139+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.138+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.157+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.157+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:27.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.078 seconds
+[2024-07-10T20:15:29.232+0000] {processor.py:161} INFO - Started process (PID=1055) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:29.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:29.234+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.234+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:29.250+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:29.269+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.268+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:29.285+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.285+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:29.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.077 seconds
+[2024-07-10T20:15:31.689+0000] {processor.py:161} INFO - Started process (PID=1086) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:31.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:31.693+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.693+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:31.719+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:31.743+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.743+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:31.766+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.766+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:31.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.104 seconds
+[2024-07-10T20:15:33.681+0000] {processor.py:161} INFO - Started process (PID=1118) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:33.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:33.685+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.685+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:33.704+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:33.725+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.724+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:33.745+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.744+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:33.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.090 seconds
+[2024-07-10T20:15:35.721+0000] {processor.py:161} INFO - Started process (PID=1149) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:35.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:35.724+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.724+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:35.743+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:35.766+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.766+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:35.793+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.793+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:35.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.106 seconds
+[2024-07-10T20:15:38.233+0000] {processor.py:161} INFO - Started process (PID=1186) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:38.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:38.236+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.236+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:38.254+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:38.275+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.275+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.297+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.296+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:38.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.092 seconds
+[2024-07-10T20:15:40.725+0000] {processor.py:161} INFO - Started process (PID=1218) to work on /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:40.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py for tasks to queue
+[2024-07-10T20:15:40.728+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.728+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:40.749+0000] {processor.py:840} INFO - DAG(s) 'etl_mysql_to_hive_dibimbing_karyawan' retrieved from /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py
+[2024-07-10T20:15:40.776+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.775+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:40.809+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:40.809+0000] {dag.py:3954} INFO - Setting next_dagrun for etl_mysql_to_hive_dibimbing_karyawan to None, run_after=None
+[2024-07-10T20:15:40.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/etl_mysql_to_hive_dibimbing_karyawan.py took 0.120 seconds

@@ -1,0 +1,161 @@
+[2024-07-10T20:14:52.811+0000] {processor.py:161} INFO - Started process (PID=524) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:52.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:14:52.814+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.814+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:52.830+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:52.848+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.848+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:52.867+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:52.867+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:14:52.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.082 seconds
+[2024-07-10T20:14:55.175+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:55.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:14:55.177+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.177+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:55.193+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:55.210+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.210+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:55.228+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:55.228+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:14:55.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.075 seconds
+[2024-07-10T20:14:57.132+0000] {processor.py:161} INFO - Started process (PID=588) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:57.133+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:14:57.135+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.134+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:57.151+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:57.168+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.168+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:57.185+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:57.185+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:14:57.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.076 seconds
+[2024-07-10T20:14:59.083+0000] {processor.py:161} INFO - Started process (PID=619) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:59.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:14:59.087+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.087+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:59.107+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:14:59.129+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.128+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:59.152+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:59.152+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:14:59.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.099 seconds
+[2024-07-10T20:15:01.198+0000] {processor.py:161} INFO - Started process (PID=650) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:01.199+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:01.201+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.201+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:01.217+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:01.235+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.234+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:01.253+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:01.253+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:01.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.077 seconds
+[2024-07-10T20:15:03.218+0000] {processor.py:161} INFO - Started process (PID=681) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:03.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:03.221+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.221+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:03.239+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:03.258+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.257+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:03.279+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:03.279+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:03.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.088 seconds
+[2024-07-10T20:15:05.447+0000] {processor.py:161} INFO - Started process (PID=712) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:05.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:05.450+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.450+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:05.473+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:05.499+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.499+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:05.528+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:05.528+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:05.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.110 seconds
+[2024-07-10T20:15:07.775+0000] {processor.py:161} INFO - Started process (PID=749) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:07.777+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:07.779+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.779+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:07.799+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:07.821+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.821+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:07.844+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:07.844+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:07.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.100 seconds
+[2024-07-10T20:15:09.841+0000] {processor.py:161} INFO - Started process (PID=780) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:09.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:09.844+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.844+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:09.864+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:09.882+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.882+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:09.905+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:09.905+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:09.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.087 seconds
+[2024-07-10T20:15:12.085+0000] {processor.py:161} INFO - Started process (PID=811) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:12.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:12.088+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.087+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:12.105+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:12.123+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.123+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:12.145+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:12.145+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:12.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.086 seconds
+[2024-07-10T20:15:14.178+0000] {processor.py:161} INFO - Started process (PID=842) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:14.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:14.181+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.180+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:14.199+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:14.217+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.217+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:14.239+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:14.239+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:14.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.091 seconds
+[2024-07-10T20:15:16.443+0000] {processor.py:161} INFO - Started process (PID=873) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:16.444+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:16.446+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.446+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:16.464+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:16.484+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.484+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:16.503+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:16.502+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:16.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.085 seconds
+[2024-07-10T20:15:18.744+0000] {processor.py:161} INFO - Started process (PID=904) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:18.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:18.747+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.746+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:18.764+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:18.787+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.786+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:18.808+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:18.807+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:18.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.089 seconds
+[2024-07-10T20:15:20.830+0000] {processor.py:161} INFO - Started process (PID=935) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:20.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:20.833+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.833+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:20.850+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:20.868+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.868+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.889+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.888+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:20.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.083 seconds
+[2024-07-10T20:15:23.205+0000] {processor.py:161} INFO - Started process (PID=966) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:23.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:23.208+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.208+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:23.228+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:23.246+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.246+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:23.264+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:23.263+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:23.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.079 seconds
+[2024-07-10T20:15:25.197+0000] {processor.py:161} INFO - Started process (PID=997) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:25.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:25.200+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.199+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:25.215+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:25.231+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.231+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:25.249+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:25.249+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:25.265+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.073 seconds
+[2024-07-10T20:15:27.314+0000] {processor.py:161} INFO - Started process (PID=1028) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:27.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:27.317+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.317+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:27.333+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:27.350+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.350+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:27.371+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:27.371+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:27.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.081 seconds
+[2024-07-10T20:15:29.556+0000] {processor.py:161} INFO - Started process (PID=1059) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:29.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:29.559+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.558+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:29.576+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:29.593+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.593+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:29.613+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:29.613+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:29.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.083 seconds
+[2024-07-10T20:15:31.936+0000] {processor.py:161} INFO - Started process (PID=1090) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:31.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:31.939+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.939+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:31.957+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:31.981+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:31.980+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:32.012+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:32.012+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:32.032+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.101 seconds
+[2024-07-10T20:15:33.926+0000] {processor.py:161} INFO - Started process (PID=1122) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:33.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:33.929+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.928+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:33.947+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:33.967+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.967+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:33.991+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.990+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:34.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.090 seconds
+[2024-07-10T20:15:36.136+0000] {processor.py:161} INFO - Started process (PID=1159) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:36.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:36.139+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.139+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:36.155+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:36.176+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.175+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:36.200+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:36.200+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:36.225+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.095 seconds
+[2024-07-10T20:15:38.488+0000] {processor.py:161} INFO - Started process (PID=1190) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:38.490+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:38.492+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.491+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:38.510+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:38.532+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.531+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:38.559+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:38.558+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:38.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.102 seconds
+[2024-07-10T20:15:41.055+0000] {processor.py:161} INFO - Started process (PID=1222) to work on /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:41.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hive_query.py for tasks to queue
+[2024-07-10T20:15:41.059+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.058+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:41.080+0000] {processor.py:840} INFO - DAG(s) 'hive_query' retrieved from /opt/airflow/dags/hive_query.py
+[2024-07-10T20:15:41.105+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.104+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:41.144+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:41.144+0000] {dag.py:3954} INFO - Setting next_dagrun for hive_query to None, run_after=None
+[2024-07-10T20:15:41.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hive_query.py took 0.127 seconds

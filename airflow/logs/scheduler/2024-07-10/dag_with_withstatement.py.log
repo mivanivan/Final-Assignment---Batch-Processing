@@ -1,0 +1,98 @@
+[2024-07-10T20:14:51.811+0000] {processor.py:161} INFO - Started process (PID=512) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:51.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:14:51.814+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:51.814+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:51.830+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:51.848+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:51.847+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:51.866+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:51.866+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:14:51.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.082 seconds
+[2024-07-10T20:14:54.292+0000] {processor.py:161} INFO - Started process (PID=544) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:54.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:14:54.297+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.297+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:54.313+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:54.331+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.330+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:54.350+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:54.350+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:14:54.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.083 seconds
+[2024-07-10T20:14:56.300+0000] {processor.py:161} INFO - Started process (PID=576) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:56.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:14:56.303+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.303+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:56.320+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:56.339+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.339+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:56.363+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:56.363+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:14:56.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.086 seconds
+[2024-07-10T20:14:58.360+0000] {processor.py:161} INFO - Started process (PID=608) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:58.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:14:58.363+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.363+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:58.383+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:14:58.404+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.404+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:14:58.424+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:14:58.424+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:14:58.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.088 seconds
+[2024-07-10T20:15:02.324+0000] {processor.py:161} INFO - Started process (PID=670) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:02.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:02.327+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.327+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:02.342+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:02.361+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.360+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:02.379+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:02.379+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:02.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.081 seconds
+[2024-07-10T20:15:06.803+0000] {processor.py:161} INFO - Started process (PID=738) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:06.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:06.806+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:06.806+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:06.822+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:06.845+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:06.845+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:06.866+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:06.866+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:06.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.090 seconds
+[2024-07-10T20:15:11.151+0000] {processor.py:161} INFO - Started process (PID=800) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:11.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:11.154+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.154+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:11.171+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:11.189+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.189+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:11.210+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:11.209+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:11.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.084 seconds
+[2024-07-10T20:15:15.485+0000] {processor.py:161} INFO - Started process (PID=862) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:15.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:15.488+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.487+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:15.503+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:15.520+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.520+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:15.539+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:15.539+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:15.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.079 seconds
+[2024-07-10T20:15:19.967+0000] {processor.py:161} INFO - Started process (PID=924) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:19.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:19.970+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:19.970+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:19.988+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:20.009+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.008+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:20.032+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:20.032+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:20.054+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.093 seconds
+[2024-07-10T20:15:24.337+0000] {processor.py:161} INFO - Started process (PID=986) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:24.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:24.340+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.340+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:24.358+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:24.377+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.377+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:24.399+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:24.399+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:24.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.088 seconds
+[2024-07-10T20:15:28.518+0000] {processor.py:161} INFO - Started process (PID=1048) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:28.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:28.521+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.521+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:28.536+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:28.558+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.558+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:28.580+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:28.580+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:28.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.097 seconds
+[2024-07-10T20:15:33.161+0000] {processor.py:161} INFO - Started process (PID=1110) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:33.162+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:33.164+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.163+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:33.176+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:33.193+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.193+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:33.213+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:33.213+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:33.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.075 seconds
+[2024-07-10T20:15:35.271+0000] {processor.py:161} INFO - Started process (PID=1142) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:35.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:35.274+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.274+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:35.290+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:35.307+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.307+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:35.327+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:35.326+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:35.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.081 seconds
+[2024-07-10T20:15:39.809+0000] {processor.py:161} INFO - Started process (PID=1210) to work on /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:39.811+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_with_withstatement.py for tasks to queue
+[2024-07-10T20:15:39.814+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:39.813+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:39.843+0000] {processor.py:840} INFO - DAG(s) 'dag_with_withstatement' retrieved from /opt/airflow/dags/dag_with_withstatement.py
+[2024-07-10T20:15:39.871+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:39.871+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-10T20:15:39.900+0000] {logging_mixin.py:188} INFO - [2024-07-10T20:15:39.899+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-07-10T20:15:39.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_with_withstatement.py took 0.126 seconds
