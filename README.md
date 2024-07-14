@@ -9,8 +9,11 @@ Berikut adalah struktur direktori proyek ini:
 ```
 project-root/
 ├── airflow
-│   └── dags/
-│   │    └── 2_final_assignment.py
+│   ├──dags/
+│   │    ├──3_final_assignment.py
+│   │    └──module/
+│   │       ├──__init__.py
+│   │       └──rfm_transform.py
 │   ├──logs/
 │   ├──plugins/
 │   ├──resources/
@@ -48,16 +51,16 @@ Pastikan Anda telah menginstal Docker dan Docker Compose sebelum menjalankan pro
 
 ## Penjelasan Kode
 
-### `2_final_assignment.py`
+### `3_final_assignment.py`
 File ini mendefinisikan DAG Airflow yang digunakan untuk melakukan processing terhadap data hingga mengeluarkan output berupa user-user yang telah di segmen berdasarkan *recency*, *frequency*, dan *monetary*
 
-1. **etl_mysql_to_mysql_2**: Define Airflow DAG named 
+1. **etl_mysql_to_mysql_3**: Define Airflow DAG named 
 2. **Extract**: take data from MySQL into xcom
 3. **install_dependencies**: Installing necessary package such as scikit-learn 
 4. **transform_data**: processing data from raw data into users segmentation
 5. **load_to_mysql**: load the data back to MySQL
 
-Output analisis ini dicetak ke konsol dan disimpan kembali ke tabel mysql dan divisualisasikan di metabase.
+Output analisis ini disimpan kembali ke tabel mysql dan divisualisasikan di metabase.
 1. **Monthly Revenue**: menampilkan pergerakan penjualan tiap bulan
 2. **Monthly Active User**: menampilkan pergerakan jumlah active user tiap bulan
 3. **Percentage RFM Segmentation**: menampikan jumlah user yang menjadi champion, potential, lost, dan sleep
