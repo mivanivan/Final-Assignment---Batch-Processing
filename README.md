@@ -44,7 +44,7 @@ Pastikan Anda telah menginstal Docker dan Docker Compose sebelum menjalankan pro
 #### b. jalankan command docker-compose up -d
 #### c. buka http://localhost:8080 di browser
 
-### 3. Install Airflow:
+### 3. Install Metabase:
 #### a. Masuk kedalam folder metabase/
 #### b. jalankan command docker-compose up -d
 #### c. buka http://localhost:3000 di browser
